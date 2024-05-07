@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Simplon Norm';
+    src: url('/fonts/SimplonNorm-Regular.woff2') format('woff2'),
+         url('/fonts/SimplonNorm-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Simplon Norm';
+    src: url('/fonts/SimplonNorm-Bold.woff2') format('woff2'),
+         url('/fonts/SimplonNorm-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  @font-face {
+     font-family: 'Inter';
+     src: url('~/static/fonts/Inter-Regular.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+   }
+   
+   @font-face {
+     font-family: 'Inter';
+     src: url('~/static/fonts/Inter-Bold.woff2') format('woff2');
+     font-weight: bold;
+     font-style: normal;
+   }

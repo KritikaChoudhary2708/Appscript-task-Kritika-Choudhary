@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Simplon Norm';
+    src: url('/fonts/SimplonNorm-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+html{
+    font-family: 'Simplon Norm' !important;
+}
